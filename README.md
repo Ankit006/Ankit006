@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Ankit006
 - 👀 I’m interested in full stack web development
-- 🌱 I’m currently learning data science
 - 📫 you can contact me on instagram (ankit4623)
 
 <!---
