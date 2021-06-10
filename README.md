@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ankit006
+- 👋 Hi, I’m Ankit
 - 👀 I’m interested in full stack web development
 - 📫 you can contact me on instagram (ankit4623)
 
