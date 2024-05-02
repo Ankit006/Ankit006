@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Ankit
-- 👀 I’m am full stack web developer, currently learning rust😉
 - 📫 you can contact me on instagram (ankit4623)
 
 <!---
